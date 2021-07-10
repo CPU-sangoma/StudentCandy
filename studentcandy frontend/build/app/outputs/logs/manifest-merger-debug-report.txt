@@ -1,0 +1,238 @@
+-- Merging decision tree log ---
+provider#com.pichillilorenzo.flutter_inappwebview.InAppWebViewFileProvider
+INJECTED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:authorities
+		INJECTED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from [:video_player] C:\aceitflutter\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:emoji_picker] C:\aceitflutter\build\emoji_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] C:\aceitflutter\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [:wakelock] C:\aceitflutter\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter] C:\aceitflutter\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a37d7647168a444700eada6776a3f208\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\412798c5ff5129715d71e58ff213e3a7\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.2.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\97b28a83b143fa73c0e0ced40504e61f\webkit-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\75b5fa10360b1819eae638c81db32ce8\browser-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\04db46b0afaef16e8baa4753a037b9f8\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\e3eb8b15772ec829dcf209e8e802e713\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\2b55f4dd1ddfb477bff2667016cc0a25\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\47b340b0c8e357b683c33bb06ca19cf3\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\7d95adf5b88dd1f9089b34bd4d2e8a93\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\36b6b089b86a4b53f161d1de646d1e60\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\37ddaeb928c97c85fe76dbe94b25377c\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\454541ed0d74e0d0babd214b189709ff\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\41c88a9f96e450bd637ed756ecda85b5\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\b275e0ac511ead6a0c329e93803bbcd1\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\65668fdc6b75dc53c12b7eb5f279be35\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\060334bf991aabc91fba7fe93737f90d\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a2947b2bc56055381fd4cf778505ff5b\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\6b399c2363bb098ebde1725d903cbda0\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\9e68ec229c62f3dc7a285423839a92f2\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\0691a1a6c3d055bc7ae9d66ba6bc80fa\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a72cc53d82cf5702357646245a6e016a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\439f22ecfa3eb2cee779567eba299ed4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\0b32b5f3cb9e35fbd79fe8723866e51f\jetified-exoplayer-hls-2.9.6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\583fdb93826db52d76d69afb89701e13\jetified-exoplayer-dash-2.9.6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\af65f5d7b660cf3b17113f45bf5f58eb\jetified-exoplayer-smoothstreaming-2.9.6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a288d1539b24ec500dc5e94617348a46\jetified-exoplayer-core-2.9.6\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\e5d23450977c2b96e566605cba9e8c80\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\0bf15744f5224b117e4e3c989895e24a\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\598256249c7c77b96135e9aeda8121e5\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\89da2d2b13f2717b13dbde907d33a117\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\73dec8f06dda83861b05ec84e654c876\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\1d0c7e854dcd581b455273fbcbc11e01\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\e5eed722b2004ca64fbe6c90991e06af\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\6d7a62f88f3d54b469312a470cec53c7\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\aceitflutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\aceitflutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\aceitflutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:2:5-46
+		INJECTED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\aceitflutter\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from C:\aceitflutter\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from C:\aceitflutter\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:9:22-64
+application
+ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:10:5-42:19
+MERGED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-18:19
+MERGED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-18:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\6b399c2363bb098ebde1725d903cbda0\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\6b399c2363bb098ebde1725d903cbda0\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\0bf15744f5224b117e4e3c989895e24a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\0bf15744f5224b117e4e3c989895e24a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\6b399c2363bb098ebde1725d903cbda0\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:12:9-38
+	android:icon
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:13:9-45
+	android:usesCleartextTraffic
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:11:9-57
+activity#com.CybAfricanTech.StudentCandy.MainActivity
+ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:16:9-27:20
+	android:launchMode
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:18:13-43
+	android:hardwareAccelerated
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:21:13-47
+	android:windowSoftInputMode
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:22:13-55
+	android:configChanges
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:20:13-163
+	android:theme
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:25:27-74
+meta-data#flutterEmbedding
+ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:39:9-41:33
+	android:value
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:41:13-30
+	android:name
+		ADDED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml:40:13-44
+uses-sdk
+INJECTED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml
+MERGED from [:video_player] C:\aceitflutter\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] C:\aceitflutter\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:emoji_picker] C:\aceitflutter\build\emoji_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:emoji_picker] C:\aceitflutter\build\emoji_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\aceitflutter\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\aceitflutter\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\aceitflutter\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\aceitflutter\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] C:\aceitflutter\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] C:\aceitflutter\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a37d7647168a444700eada6776a3f208\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a37d7647168a444700eada6776a3f208\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\412798c5ff5129715d71e58ff213e3a7\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\412798c5ff5129715d71e58ff213e3a7\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.2.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\97b28a83b143fa73c0e0ced40504e61f\webkit-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.2.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\97b28a83b143fa73c0e0ced40504e61f\webkit-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\75b5fa10360b1819eae638c81db32ce8\browser-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\75b5fa10360b1819eae638c81db32ce8\browser-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\04db46b0afaef16e8baa4753a037b9f8\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\04db46b0afaef16e8baa4753a037b9f8\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\e3eb8b15772ec829dcf209e8e802e713\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\e3eb8b15772ec829dcf209e8e802e713\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\2b55f4dd1ddfb477bff2667016cc0a25\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\2b55f4dd1ddfb477bff2667016cc0a25\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\47b340b0c8e357b683c33bb06ca19cf3\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\47b340b0c8e357b683c33bb06ca19cf3\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\7d95adf5b88dd1f9089b34bd4d2e8a93\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\7d95adf5b88dd1f9089b34bd4d2e8a93\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\36b6b089b86a4b53f161d1de646d1e60\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\36b6b089b86a4b53f161d1de646d1e60\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\37ddaeb928c97c85fe76dbe94b25377c\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\37ddaeb928c97c85fe76dbe94b25377c\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\454541ed0d74e0d0babd214b189709ff\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\454541ed0d74e0d0babd214b189709ff\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\41c88a9f96e450bd637ed756ecda85b5\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\41c88a9f96e450bd637ed756ecda85b5\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\b275e0ac511ead6a0c329e93803bbcd1\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\b275e0ac511ead6a0c329e93803bbcd1\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\65668fdc6b75dc53c12b7eb5f279be35\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\65668fdc6b75dc53c12b7eb5f279be35\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\060334bf991aabc91fba7fe93737f90d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\060334bf991aabc91fba7fe93737f90d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a2947b2bc56055381fd4cf778505ff5b\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a2947b2bc56055381fd4cf778505ff5b\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\6b399c2363bb098ebde1725d903cbda0\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\6b399c2363bb098ebde1725d903cbda0\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\9e68ec229c62f3dc7a285423839a92f2\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\9e68ec229c62f3dc7a285423839a92f2\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\0691a1a6c3d055bc7ae9d66ba6bc80fa\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\0691a1a6c3d055bc7ae9d66ba6bc80fa\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a72cc53d82cf5702357646245a6e016a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a72cc53d82cf5702357646245a6e016a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\439f22ecfa3eb2cee779567eba299ed4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\439f22ecfa3eb2cee779567eba299ed4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\0b32b5f3cb9e35fbd79fe8723866e51f\jetified-exoplayer-hls-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\0b32b5f3cb9e35fbd79fe8723866e51f\jetified-exoplayer-hls-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\583fdb93826db52d76d69afb89701e13\jetified-exoplayer-dash-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\583fdb93826db52d76d69afb89701e13\jetified-exoplayer-dash-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\af65f5d7b660cf3b17113f45bf5f58eb\jetified-exoplayer-smoothstreaming-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\af65f5d7b660cf3b17113f45bf5f58eb\jetified-exoplayer-smoothstreaming-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a288d1539b24ec500dc5e94617348a46\jetified-exoplayer-core-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a288d1539b24ec500dc5e94617348a46\jetified-exoplayer-core-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\e5d23450977c2b96e566605cba9e8c80\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\e5d23450977c2b96e566605cba9e8c80\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\0bf15744f5224b117e4e3c989895e24a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\0bf15744f5224b117e4e3c989895e24a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\598256249c7c77b96135e9aeda8121e5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\598256249c7c77b96135e9aeda8121e5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\89da2d2b13f2717b13dbde907d33a117\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\89da2d2b13f2717b13dbde907d33a117\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\73dec8f06dda83861b05ec84e654c876\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\73dec8f06dda83861b05ec84e654c876\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\1d0c7e854dcd581b455273fbcbc11e01\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\1d0c7e854dcd581b455273fbcbc11e01\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\e5eed722b2004ca64fbe6c90991e06af\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\e5eed722b2004ca64fbe6c90991e06af\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\6d7a62f88f3d54b469312a470cec53c7\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\6d7a62f88f3d54b469312a470cec53c7\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\aceitflutter\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\aceitflutter\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\aceitflutter\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\aceitflutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\aceitflutter\android\app\src\debug\AndroidManifest.xml
+activity#com.pichillilorenzo.flutter_inappwebview.InAppBrowser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:47
+	android:configChanges
+		ADDED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-59
+	android:theme
+		ADDED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-102
+activity#com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-15:55
+	android:configChanges
+		ADDED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-59
+	android:theme
+		ADDED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-110
+receiver#com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-118
+	android:name
+		ADDED from [:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:17:19-115
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a288d1539b24ec500dc5e94617348a46\jetified-exoplayer-core-2.9.6\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a288d1539b24ec500dc5e94617348a46\jetified-exoplayer-core-2.9.6\AndroidManifest.xml:24:22-76

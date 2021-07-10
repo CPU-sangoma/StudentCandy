@@ -1,0 +1,102 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.CybAfricanTech.StudentCandy"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+9        android:targetSdkVersion="29" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:9:5-67
+14-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:9:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a288d1539b24ec500dc5e94617348a46\jetified-exoplayer-core-2.9.6\AndroidManifest.xml:24:5-79
+15-->[com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\a288d1539b24ec500dc5e94617348a46\jetified-exoplayer-core-2.9.6\AndroidManifest.xml:24:22-76
+16
+17    <application
+17-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:10:5-42:19
+18        android:name="io.flutter.app.FlutterApplication"
+18-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:11:9-57
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.1.0] C:\Users\Lesego\.gradle\caches\transforms-2\files-2.1\6b399c2363bb098ebde1725d903cbda0\core-1.1.0\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/launcher_icon"
+21-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:13:9-45
+22        android:label="Student Candy"
+22-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:12:9-38
+23        android:usesCleartextTraffic="true" >
+23-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:14:9-44
+24        <activity
+24-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:16:9-27:20
+25            android:name="com.CybAfricanTech.StudentCandy.MainActivity"
+25-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:17:13-41
+26            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+26-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:20:13-163
+27            android:hardwareAccelerated="true"
+27-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:21:13-47
+28            android:launchMode="singleTop"
+28-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:18:13-43
+29            android:theme="@style/LaunchTheme"
+29-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:19:13-47
+30            android:windowSoftInputMode="adjustResize" >
+30-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:22:13-55
+31            <intent-filter>
+31-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:23:13-26:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:24:17-68
+32-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:24:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:25:17-76
+34-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:25:27-74
+35            </intent-filter>
+36        </activity>
+37
+38        <provider
+39            android:name="com.pichillilorenzo.flutter_inappwebview.InAppWebViewFileProvider"
+40            android:authorities="com.CybAfricanTech.StudentCandy.flutter_inappwebview.fileprovider"
+41            android:exported="false"
+42            android:grantUriPermissions="true" >
+43            <meta-data
+44                android:name="android.support.FILE_PROVIDER_PATHS"
+45                android:resource="@xml/provider_paths" />
+46        </provider>
+47        <!--
+48             Don't delete the meta-data below.
+49             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+50        -->
+51        <meta-data
+51-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:39:9-41:33
+52            android:name="flutterEmbedding"
+52-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:40:13-44
+53            android:value="2" />
+53-->C:\aceitflutter\android\app\src\main\AndroidManifest.xml:41:13-30
+54
+55        <activity
+55-->[:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:47
+56            android:name="com.pichillilorenzo.flutter_inappwebview.InAppBrowser.InAppBrowserActivity"
+56-->[:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-102
+57            android:configChanges="orientation|screenSize"
+57-->[:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-59
+58            android:theme="@style/AppTheme" />
+58-->[:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-44
+59        <activity
+59-->[:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-15:55
+60            android:name="com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ChromeCustomTabsActivity"
+60-->[:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-110
+61            android:configChanges="orientation|screenSize"
+61-->[:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-59
+62            android:theme="@style/ThemeTransparent" />
+62-->[:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-52
+63
+64        <receiver android:name="com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ActionBroadcastReceiver" />
+64-->[:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-118
+64-->[:flutter_inappwebview] C:\aceitflutter\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:17:19-115
+65    </application>
+66
+67</manifest>

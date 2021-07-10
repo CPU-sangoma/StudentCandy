@@ -1,0 +1,4 @@
+#Wed Dec 02 04:20:51 CAT 2020
+base.0=C\:\\aceitflutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

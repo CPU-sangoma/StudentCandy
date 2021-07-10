@@ -1,0 +1,44 @@
+import 'package:flutter/material.dart';
+
+
+course
+    .takeCourse(
+widget
+    .courseId,
+snapshot
+    .data[
+index]
+.id)
+.then((value) {
+if (value
+    .statusCode ==
+201) {
+showDialog(
+context:
+context,
+builder:
+(context) {
+return AlertDialog(
+title: Text(
+"Purchased complete"),
+content: Text(
+"Congrats, you bought this chapter, go to your purchased chapters to see it"),
+);
+});
+} else if (value
+    .statusCode ==
+200) {
+showDialog(
+context:
+context,
+builder:
+(context) {
+return AlertDialog(
+title: Text(
+"Bought chapter"),
+content: Text(
+"Looks like you already bought this chapter, go to your bought chapters"),
+);
+});
+}
+});
